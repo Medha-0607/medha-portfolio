@@ -2,10 +2,10 @@
 import { motion } from 'framer-motion'
 
 const timeline = [
-  { year: '2021', title: 'Started BE at RMD Engineering College', body: 'Began my Computer Science journey at R.M.D Engineering College, diving into programming fundamentals, data structures, and building a strong engineering foundation.' },
-  { year: '2023', title: 'First Real Projects', body: 'Built my first full-stack applications using React and Node.js. Started contributing to open source and building things people actually use.' },
-  { year: '2024', title: 'Went Deep into AI', body: 'Explored LLMs, LangChain, and RAG pipelines. Started building AI-powered products and participated in my first hackathons.' },
-  { year: '2025', title: 'Hackathon Success', body: 'Participated in multiple hackathons, building AI-powered platforms. Won recognition for innovative and impactful solutions.' },
+  { year: '2025', title: 'Started BE at RMD Engineering College', body: 'Began my Computer Science journey at R.M.D Engineering College, diving into programming fundamentals, data structures, and building a strong engineering foundation.' },
+  { year: '2025', title: 'First Projects', body: 'Built my first web applications using React and Node.js. Started exploring full-stack development and building things people actually use.' },
+  { year: '2026', title: 'Going Deep into AI', body: 'Exploring LLMs, LangChain, and RAG pipelines. Started building AI-powered products and participating in hackathons.' },
+  { year: '2026', title: 'Hackathon Success', body: 'Participated in multiple hackathons, building AI-powered platforms like CareerForge and LearnHub. Won recognition for innovative solutions.' },
   { year: 'Present', title: 'Building Products', body: 'Focusing on creating modern, scalable, and beautifully designed AI systems and web applications. Open to exciting opportunities.', current: true },
 ]
 
