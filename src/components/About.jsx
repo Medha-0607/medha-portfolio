@@ -32,8 +32,8 @@ export default function About() {
 
         <div style={{ maxWidth: '820px' }}>
           {timeline.map((item, i) => (
-            <motion.div
-              key={item.year}
+           <motion.div
+            key={i}
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
